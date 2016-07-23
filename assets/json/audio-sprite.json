@@ -1,0 +1,75 @@
+{
+  "resources": [
+    "assets/audio/audio-sprite.ogg",
+    "assets/audio/audio-sprite.mp3"
+  ],
+  "spritemap": {
+    "silence": {
+      "start": 0,
+      "end": 5,
+      "loop": true,
+      "priority": 0
+    },
+    "clark_lookWhoMadeIt": {
+      "start": 6,
+      "end": 7.506666666666667,
+      "loop": false,
+      "priority": 0
+    },
+    "gps_memphisState": {
+      "start": 9,
+      "end": 11.193832199546485,
+      "loop": false,
+      "priority": 0
+    },
+    "james_iDontLikeSprings": {
+      "start": 13,
+      "end": 14.997414965986394,
+      "loop": false,
+      "priority": 0
+    },
+    "kevin_bullshitRightHere": {
+      "start": 16,
+      "end": 17.506666666666668,
+      "loop": false,
+      "priority": 0
+    },
+    "kevin_thisSucks": {
+      "start": 19,
+      "end": 20.506666666666668,
+      "loop": false,
+      "priority": 0
+    },
+    "rusty_ahCrap": {
+      "start": 22,
+      "end": 23.506666666666668,
+      "loop": false,
+      "priority": 0
+    },
+    "rusty_notBestCaseScenario": {
+      "start": 25,
+      "end": 27.986666666666668,
+      "loop": false,
+      "priority": 0
+    },
+    "energy": {
+      "start": 29,
+      "end": 31.461655328798187,
+      "loop": false,
+      "priority": 0
+    },
+    "fail_3": {
+      "start": 33,
+      "end": 38.29666666666667,
+      "loop": false,
+      "priority": 0
+    },
+    "mess": {
+      "start": 40,
+      "end": 42.85333333333333,
+      "loop": false,
+      "priority": 0
+    }
+  },
+  "autoplay": "silence"
+}
